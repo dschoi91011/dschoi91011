@@ -1,4 +1,4 @@
-## Hi there 👋
+## From cop to code...
 
 I was 2 years into a career in law enforcement when 2020 hit. Suddenly at the epicenter of a sociopolitical maelstrom, I found myself under relentless strain, prompting a reassessment of my chosen profession. I began exploring the industry of technology on the recommendation of my roommates, who are themselves employed in tech-adjacent fields. As I delved deeper into this world via self-study and the coding of simple projects, I started to realize the versatility and potential of programming. Furthermore, I found it quite rewarding to build even simple applications - to engage in the process of planning, constructing, debugging, and producing a product, and to experience the journey of transforming nebulous imagination into tangible reality.
 
