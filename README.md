@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I was 2 years into a career in law enforcement when 2020 hit. Suddenly at the epicenter of a sociopolitical maelstrom, I found myself under relentless strain, prompting a reassessment of my chosen profession. I began exploring the industry of technology on the recommendation of my roommates, who are themselves employed in tech-adjacent fields. As I delved deeper into this world via self-study and the coding of simple projects, I started to realize the versatility and potential of programming. Furthermore, I found it quite rewarding to build even simple applications - to engage in the process of planning, constructing, debugging, and producing a product, and to experience the journey of transforming nebulous imagination into tangible reality.
+
+Fast forward several years, a lot of self-study, coding, project-building, and an intense, half-year full stack bootcamp later, and I am ready and fully committed to starting this next chapter of my professional journey. My path is likely not a typical one for those who inhabit this space; most of my time has been spent working in government, and across various and disparate sectors. However, I believe I can bring fresh perspectives and innovative solutions - be it technical or interpersonal - precisely because of this diametric experience.
+
+My passions and interests outside of work include: Brazilian Jiu Jitsu, gaming (PC and board), basketball, hiking, working out, spending time with friends, and the occasional deep-dive into the endless rabbit-hole of YouTube.
+
 <!--
 **dschoi91011/dschoi91011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
